@@ -1,2 +1,2 @@
 # Corale
-A portable modern imperative database written entirely in C and POSIX shell
+A portable, modern, and imperative database language written entirely in C and POSIX shell.
